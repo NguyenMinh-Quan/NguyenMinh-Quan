@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NguyenMinh-Quan
-- 👀 I’m interested in computer and football!
+- 👀 I’m interested in computer and badminton!
 - 🌱 I’m currently learning Python
 - 📫 Contact me though my gmail: minhquan05072011@gmail.com
 - 😜 That's all!
